@@ -1,0 +1,15 @@
+/home/guilherme-anschau/ScreenSound/bin/Debug/net6.0/ScreenSound
+/home/guilherme-anschau/ScreenSound/bin/Debug/net6.0/ScreenSound.deps.json
+/home/guilherme-anschau/ScreenSound/bin/Debug/net6.0/ScreenSound.runtimeconfig.json
+/home/guilherme-anschau/ScreenSound/bin/Debug/net6.0/ScreenSound.dll
+/home/guilherme-anschau/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.AssemblyReference.cache
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfoInputs.cache
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfo.cs
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.dll
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/refint/ScreenSound.dll
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
+/home/guilherme-anschau/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
