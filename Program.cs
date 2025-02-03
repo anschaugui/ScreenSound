@@ -1,26 +1,20 @@
-﻿using System.Runtime.InteropServices;
+﻿using System.Runtime.ExceptionServices;
+
+Album albumDoQueen = new Album();
+albumDoQueen.Nome = "A nigth at the opera";
 
 Musica musica1 = new Musica();
-musica1.Nome = "Roxane";
-musica1.Artista = "The police";
-musica1.Duracao = 273;
-musica1.Disponivel = true;
-Console.WriteLine(musica1.DescricaoResumida);
-Console.WriteLine($"a musica está disponivel: {musica1.Disponivel}");
+musica1.Nome = "Love of my life";
+musica1.Duracao = 213;
 
 Musica musica2 = new Musica();
-musica2.Nome = "Toxicity";
-musica2.Artista = "System of down";
-musica2.Duracao = 235;
-musica2.Disponivel = false;
-Console.WriteLine(musica2.DescricaoResumida);
-Console.WriteLine($"a musica está disponivel: {musica2.Disponivel}");
+musica2.Nome = "Bohemian Rhapsody";
+musica2.Duracao = 354;
 
-//exibir a ficha tecnica das instâncias criadas a partir da classe "Musica"
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
 
-
+albumDoQueen.ExibirMusicasDoAlbum();
 
 
 
